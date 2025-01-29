@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Suhaila, a software engineering student from Palestine. <br>I am passionate about technology 💻, <br>coding 👩‍💻, <br>and always excited to solve problems 🧠. <br>Let's make the world a better place through innovation and creativity! ✨🚀"
+<h2>I'm Suhaila, a software engineering student from Palestine. <br>I am passionate about technology 💻, <br>coding 👩‍💻, <br>and always excited to solve problems 🧠. <br>Let's make the world a better place through innovation and creativity! ✨🚀"</h2>
 
 
 ## 🌐 Socials:
