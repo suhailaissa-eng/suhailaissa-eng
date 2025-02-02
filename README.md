@@ -1,5 +1,7 @@
 # 💫 About Me:
-<h3>I'm Suhaila, a software engineering student from Palestine. <br>I am passionate about technology 💻, <br>coding 👩‍💻, <br>and always excited to solve problems 🧠. <br>Let's make the world a better place through innovation and creativity! ✨🚀</h3>
+<h2>I'm Suhaila, a software engineering student from Palestine. 
+I am passionate about technology 💻, coding 👩‍💻, and always excited to solve problems 🧠. 
+Let's make the world a better place through innovation and creativity! ✨🚀</h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhailaissa) 
@@ -15,4 +17,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=suhailaissa-eng&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
