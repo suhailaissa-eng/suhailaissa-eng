@@ -1,4 +1,4 @@
-<h2 align="left">I'm Suhaila, a software engineering student at An-Najah National University 👩‍💻✨. <br>I'm passionate about technology 💡 and always eager to learn 📚 and build innovative solutions 🚀.</h2>
+<h2 align="left">I'm Suhaila, a software engineering student at An-Najah National University 👩‍💻✨. </h2>
 
 ###
 
